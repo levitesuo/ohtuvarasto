@@ -24,7 +24,7 @@ disable=raw-checker-failed,
 
 [REFACTORING]
 
-    max-nested-blocks = 0
+    max-nested-blocks = 2
 
 [DESIGN]
 
