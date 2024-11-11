@@ -19,11 +19,12 @@ disable=raw-checker-failed,
 [FORMAT]
 
     max-line-length = 80
+    single-line-if-stmt = true
 
 
 [REFACTORING]
 
-    max-nested-blocks = 2
+    max-nested-blocks = 0
 
 [DESIGN]
 
